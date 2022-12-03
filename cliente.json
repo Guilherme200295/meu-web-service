@@ -1,17 +1,15 @@
 [
   
 {
-  "id": "1",
+  "cota": "atencao",
   "nome": "vinte e um de abril",
-  "atingidos": "cinco familias",
-  "id_cota": "cota de atencao",
+  "atingidos": "cinco familias"
 }
   
   {
-  "id": "2",
+  "cota": "alerta",
   "nome": "Morada do sol",
-  "atingidos": "dez familias",
-  "id_cota": "cota de alerta",
+  "atingidos": "dez familias"
 }
   
 ]
