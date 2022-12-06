@@ -1,0 +1,13 @@
+[
+  {
+    "nivel": "onze_metros",
+    "hora_medicao": "dez_e_meia",
+    "id_cota": "atencao"
+  },
+  {
+    "nivel": "16_metros",
+    "hora_medicao": "uma_e_meia",
+    "id_cota": "inundacao"
+  }
+  
+]
