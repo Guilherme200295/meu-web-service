@@ -1,8 +1,8 @@
 [
   {
-    "Cota normal": "Oito metros",
-    "Cota de atenção": "Doze metros",
-    "Cota de alerta": "Quinze metros",
-    "Cota de inundação": "Dezesseis metros"
+    "cota_normal": "Oito metros",
+    "cota_atenção": "Doze metros",
+    "cota_alerta": "Quinze metros",
+    "cota_inundação": "Dezesseis metros"
   }
 ]
