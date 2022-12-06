@@ -1,7 +1,12 @@
 [
   {
-    "nivel" : "14 metros",
+    "nivel" : "Quatorze metros",
     "cidade" : "Santa Tereza",
-    "hora da medicao" : "09h e 30min" 
+    "hora da medicao" : "Nove e meia da manhã" 
+  },
+  {
+    "nivel" : "Doze metros",
+    "cidade" : "Muçum",
+    "hora da medicao" : "Nove e meia da manhã" 
   }
 ]
